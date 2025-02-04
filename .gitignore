@@ -2,3 +2,8 @@ __pycache__/
 res/
 *.py
 *WIP*
+*.tar.gz
+*.tgz
+*.json
+imagenette2-320/
+data/
